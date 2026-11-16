@@ -143,6 +143,20 @@ A personal motorcycle journey logging app to record rides, routes, and travel ex
 
 ---
 
+## 💼 PROFESSIONAL EXPERIENCE · 工作经历
+
+Frontend engineering work delivered in production enterprise applications — focused on architecture, performance, and reusable systems.
+
+面向企业级生产应用的前端工程实践，聚焦架构、性能与可复用体系建设。
+
+- Built a custom **Vite** route lazy-loading plugin and applied bundle optimization for large-scale apps · 自研 Vite 路由懒加载插件，并针对大型应用做打包优化
+- Integrated **qiankun** micro-frontends and shipped a config-driven form renderer · 集成 qiankun 微前端，落地配置化表单渲染器
+- Maintained a reusable component library of 20+ components · 维护 20+ 组件的可复用组件库
+
+**Stack:** `React` `TypeScript` `Vite` `qiankun` `Ant Design`
+
+---
+
 ## 💡 ENGINEERING PHILOSOPHY · 工程理念
 
 - **Build for real problems · 为真实问题而构建** — Technology should solve real problems. 技术应该解决真实的问题。
