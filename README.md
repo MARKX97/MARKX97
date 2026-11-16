@@ -34,15 +34,40 @@ Recently, I've been expanding into full-stack development and AI Agent engineeri
 
 ## 🛠 TECH STACK · 技术栈
 
-<div align="center">
+**Languages · 语言**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,vite,nodejs,python,fastapi,git,github,githubactions,vercel&perline=6" />
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Cross-platform:** `Taro` `qiankun` `Ant Design` `MobX` **AI:** `LLM` `Function Calling` `RAG` `Subagents` `Agent Runtime`
+**Frontend · 前端**
 
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-764ABC?style=for-the-badge&logoColor=white)
+![qiankun](https://img.shields.io/badge/qiankun-micro--frontend-00B96B?style=for-the-badge)
+![Taro](https://img.shields.io/badge/Taro-cross--platform-4A6CF7?style=for-the-badge)
+
+**Backend & AI · 后端与 AI**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-FF6F00?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=for-the-badge)
+
+**Tools & Engineering · 工具与工程化**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![WeChat Mini Program](https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 - Frontend architecture and component design · 前端架构与组件设计
 - Micro-frontend architecture and integration · 微前端架构与集成
