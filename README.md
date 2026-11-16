@@ -121,7 +121,7 @@ npx create-mark-next-project my-app
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
 
 #### 03 · Moto Log
 
@@ -138,36 +138,8 @@ A personal motorcycle journey logging app to record rides, routes, and travel ex
 **Stack:** `Taro` `CloudBase` `TypeScript`
 
 </td>
-    <td width="50%" valign="top">
-
-#### 04 · Frontend Engineering Practices
-
-**企业级 Web 应用工程实践**
-
-Engineering practices developed through professional frontend projects.
-
-来自真实业务项目的前端工程实践沉淀。
-
-- Custom Vite route lazy-loading plugin · 自研 Vite 路由懒加载插件
-- qiankun micro-frontend integration · qiankun 微前端集成
-- Bundle optimization & config-driven form renderer · 打包优化与配置化表单渲染器
-- Reusable component library with 20+ components · 20+ 组件的可复用组件库
-
-**Stack:** `React` `Vite` `qiankun` `TypeScript`
-
-</td>
   </tr>
 </table>
-
----
-
-## 🔭 CURRENTLY EXPLORING · 正在探索
-
-I'm continuously exploring technologies and engineering practices around intelligent software systems.
-
-我正在持续探索智能化软件系统相关的技术与工程实践。
-
-`AI Agent Architecture` `Context Engineering` `RAG & Retrieval Strategies` `Agent Runtime` `Subagent Collaboration` `Harness Engineering` `Agent Evaluation`
 
 ---
 
@@ -204,7 +176,7 @@ I'm open to opportunities involving frontend engineering, full-stack development
 欢迎交流前端工程、全栈开发与 AI 应用相关的机会与合作。
 
 [![GitHub](https://img.shields.io/badge/GitHub-MARKX97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MARKX97)
-[![Email](https://img.shields.io/badge/Email-50320229%2BMARKX97%40users.noreply.github.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:50320229+MARKX97@users.noreply.github.com)
+[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiechensheng1997@126.com)
 
 </div>
 
