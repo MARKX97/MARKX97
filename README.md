@@ -1,12 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=160&section=header&text=MARK%20XIE&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Frontend%20Engineer%20%C2%B7%20Full-stack%20Developer%20%C2%B7%20AI%20Agent%20Builder&descSize=18&descAlignY=70" width="100%" />
+## 👋 Hi there · 你好
+
+I'm Mark. I build for the web — web apps, WeChat Mini Programs, and H5 experiences. I enjoy coding for fun 😀 and making small projects 🎈.
+
+我是 Mark，开发 Web 应用、微信小程序和 H5。喜欢写代码，也爱做些小项目 🎈。
 
 ---
 
-## 👋 Hi there · 你好
+## 🔨 What I'm Building · 我正在做的
 
-I'm a software engineer with 5+ years building web applications. Currently, I'm focusing on full-stack development and AI agents — tool orchestration, RAG, and spec-driven development. I enjoy coding for fun 😀 and making small projects 🎈.
+I'm building **AI Software Planning Agent** from the ground up — an AI system that turns a rough product idea into a structured, ready-to-build software spec. Multiple models collaborate through a LangGraph workflow, with retrieval-augmented knowledge and citation-grounded output, so every decision traces back to a source.
 
-我是一名拥有 5 年+ Web 应用开发经验的软件工程师。目前专注于全栈开发与 AI Agent——工具编排、RAG 与规格驱动开发。喜欢写代码，也爱做些小项目 🎈。
+我正在从零构建 **AI Software Planning Agent**——一个把粗略的产品想法变成结构化、可直接开发规格的 AI 系统。多个模型通过 LangGraph 工作流协作，结合知识检索与引用溯源，让每个决策都有据可查。
+
+`LangGraph` `PostgreSQL` `pgvector` `FastAPI` · [View on GitHub](https://github.com/MARKX97/ai-software-planning-agent)
 
 ---
 
@@ -51,12 +57,12 @@ I'm a software engineer with 5+ years building web applications. Currently, I'm 
 ## 📮 Contact · 联系我
 
 [![GitHub](https://img.shields.io/badge/GitHub-MARKX97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MARKX97)
-[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiechensheng1997@126.com)
+[![Email](https://raw.githubusercontent.com/MARKX97/MARKX97/main/assets/126-mail.png)](mailto:xiechensheng1997@126.com)
 
 ---
 
 <div align="center">
 
-*Building, learning, and improving — one project at a time.* · *持续构建，持续学习，持续改进。*
+*Building, learning, and improving.* · *持续构建，持续学习，持续改进。*
 
 </div>
