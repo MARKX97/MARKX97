@@ -1,24 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=160&section=header&text=MARK%20XIE&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Frontend%20Engineer%20%C2%B7%20Full-stack%20Developer%20%C2%B7%20AI%20Agent%20Builder&descSize=18&descAlignY=70" width="100%" />
 
-<div align="center">
-
-## MARK XIE
-
-**Engineering the Web. Exploring AI.** · **构建 Web，探索 AI。**
-
-`Frontend Engineer → Full-stack · AI Agent Builder`
-
-[GitHub](https://github.com/MARKX97) · [Projects](https://github.com/MARKX97?tab=repositories) · [Contact](#contact)
-
-</div>
-
 ---
 
 ## 👋 Hi there · 你好
 
-I'm a software engineer on Earth with 5+ years building web applications. Currently, I'm focusing on full-stack development and AI agents — tool orchestration, RAG, and spec-driven development. Off the keyboard, I teach Chinese online 🌏 and enjoy making small projects 🎈.
+I'm a software engineer with 5+ years building web applications. Currently, I'm focusing on full-stack development and AI agents — tool orchestration, RAG, and spec-driven development. I enjoy coding for fun 😀 and making small projects 🎈.
 
-我是一名软件工程师，有 5 年+ Web 应用开发经验。目前专注于全栈开发与 AI Agent——工具编排、RAG 与规格驱动开发。键盘之外，我在线教中文 🌏，也喜欢做些小项目 🎈。
+我是一名拥有 5 年+ Web 应用开发经验的软件工程师。目前专注于全栈开发与 AI Agent——工具编排、RAG 与规格驱动开发。喜欢写代码，也爱做些小项目 🎈。
 
 ---
 
@@ -50,19 +38,11 @@ I'm a software engineer on Earth with 5+ years building web applications. Curren
 
 ## 🚀 Selected Projects · 重点项目
 
-**🔹 [AI Software Planning Agent](https://github.com/MARKX97/ai-software-planning-agent)** — Multi-model + LangGraph + pgvector RAG, turning ideas into structured specs. 多模型编排 + 引用溯源 RAG，把想法变成结构化开发规格。 `LangGraph` `PostgreSQL` `FastAPI`
-
-**🔹 [create-mark-next-project](https://github.com/MARKX97/create-mark-next-project)** — `npx create-mark-next-project my-app` — a Next.js 16 + React 19 starter with CI and semantic-release preconfigured. 一条命令生成工程化完备的 Next.js 应用。 `Node.js` `npm`
-
-**🔹 Moto Log** — A WeChat Mini Program for logging motorcycle rides, routes and journeys. 记录骑行、路线与旅途的微信小程序。 `Taro` `CloudBase` `TypeScript`
-
----
-
-## 💼 Experience · 工作经历
-
-Production frontend engineering in enterprise apps: custom Vite lazy-loading plugin, qiankun micro-frontends, and a 20+ component library.
-
-企业级生产应用前端工程：自研 Vite 懒加载插件、qiankun 微前端、20+ 组件库。
+| Project | Description · 简介 | Stack |
+| --- | --- | --- |
+| [**AI Software Planning Agent** 🔗](https://github.com/MARKX97/ai-software-planning-agent) | Multi-model + LangGraph + pgvector RAG, turning ideas into structured specs. 多模型编排 + 引用溯源 RAG，把想法变成结构化开发规格。 | `LangGraph` `PostgreSQL` `FastAPI` |
+| [**create-mark-next-project** 🔗](https://github.com/MARKX97/create-mark-next-project) | `npx create-mark-next-project my-app` — a Next.js 16 + React 19 starter with CI preconfigured. 一条命令生成工程化完备的 Next.js 应用。 | `Node.js` `npm` |
+| **Moto Log** | A WeChat Mini Program for logging motorcycle rides and journeys. 记录骑行与旅途的微信小程序。 | `Taro` `CloudBase` `TypeScript` |
 
 ---
 
