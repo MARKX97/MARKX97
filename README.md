@@ -1,25 +1,22 @@
 ## 👋 Hi there · 你好
 
-I'm Mark. I build for the web — web apps, WeChat Mini Programs, and H5 experiences. I enjoy coding for fun 😀 and making small projects 🎈.
+I'm Mark — a developer who's built web apps, WeChat Mini Programs, and H5 pages. Lately I'm also learning English, Spanish, and Korean.
 
-我是 Mark，开发 Web 应用、微信小程序和 H5。喜欢写代码，也爱做些小项目 🎈。
+我是 Mark，做过 Web 应用、微信小程序和 H5。最近也在学英语、西班牙语和韩语。
 
 ---
 
 ## 🔨 What I'm Building · 我正在做的
 
-From AI agents to developer tools to production web apps — a snapshot of what I've been building lately.
-从 AI Agent、开发工具到生产级 Web 应用——近期在做的一些项目。
+- **旧页书铺** — A bilingual site for my mom's secondhand bookstore. · 为我妈妈的二手书店做的中英双语网站。 `Next.js` `SEO`
 
-- **旧页书铺** — A bilingual, SEO-first Next.js site for a secondhand bookstore, built to be read by both search engines and AI assistants. · 为二手书店做的中英双语静态站，Next.js 静态导出，面向搜索引擎与 AI 助手优化。 `Next.js 16` `TypeScript` `SEO`
+- [**AI Software Planning Agent**](https://github.com/MARKX97/ai-software-planning-agent) — Turns rough ideas into structured software specs with AI. · 用 AI 把模糊想法变成结构化的软件规格。 `LangGraph` `RAG`
 
-- [**AI Software Planning Agent**](https://github.com/MARKX97/ai-software-planning-agent) — A multi-model LangGraph workflow with hybrid retrieval that turns rough product ideas into citation-grounded software specs. · 多模型 LangGraph + 混合检索，把模糊想法变成有引用溯源的软件规划规格。 `LangGraph` `pgvector` `FastAPI`
+- **Agent Skills** — My personal Codex skills, version-controlled. · 用版本管理维护的个人 Codex skills。 `Python`
 
-- **Agent Skills** — Personal Codex skills maintained as version-controlled, source-controlled workflows. · 以源码控制的工作流方式维护个人 Codex skills。 `Python` `Codex`
+- **Moto Diary** — A WeChat Mini Program for logging motorcycle rides. · 记录骑行的微信小程序。 `Vue 3` `Node.js`
 
-- **Moto Diary** — A motorcycle-logging WeChat Mini Program: uni-app + Vue 3 front end with a CloudBase Node.js backend. · 记录骑行的微信小程序：uni-app + Vue 3 前端 + CloudBase Node.js 后端。 `Vue 3` `Node.js` `CloudBase` · [backend](https://github.com/MARKX97/moto-diary-backend)
-
-- [**create-mark-next-project**](https://github.com/MARKX97/create-mark-next-project) — An npm CLI that scaffolds a production-ready Next.js app with CI and semantic-release in one command. · 一条命令生成工程化完备 Next.js 应用的 npm 脚手架。 `Node.js` `npm`
+- [**create-mark-next-project**](https://github.com/MARKX97/create-mark-next-project) — A CLI that scaffolds a Next.js app in one command. · 一条命令生成 Next.js 应用的脚手架。 `Node.js`
 
 ---
 
