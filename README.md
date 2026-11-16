@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<a href="https://github.com/MARKX97">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&height=50&lines=Engineering%20the%20Web.%20Exploring%20AI.+%E6%9E%84%E5%BB%BA%20Web%EF%BC%8C%E6%8E%A2%E7%B4%A2%20AI%E3%80%82+I%20build%20CLIs%2C%20AI%20agents%20%26%20mini-programs.+%E7%99%BD%E5%A4%A9%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%99%9A%E4%B8%8A%E6%95%99%E4%B8%AD%E6%96%87%E3%80%82" alt="Typing SVG" />
-</a>
+### **Engineering the Web. Exploring AI.**
+
+#### **构建 Web，探索 AI。**
 
 [GitHub](https://github.com/MARKX97) · [Projects](https://github.com/MARKX97?tab=repositories) · [Contact](#contact)
 
