@@ -8,7 +8,7 @@ I'm Mark — a developer who's built web apps, WeChat Mini Programs, and H5 page
 
 ## 🔨 What I'm Building · 我正在做的
 
-- A bilingual site for my mom's secondhand bookstore. · 为妈妈的二手书店做的中英双语网站。 `Next.js` `SEO`
+- **mom-spaghetti** — A bilingual site for my mom's secondhand bookstore. · 为妈妈的二手书店做的中英双语网站。 `Next.js` `SEO`
 
 - [**AI Software Planning Agent**](https://github.com/MARKX97/ai-software-planning-agent) — Turns rough ideas into structured software specs with AI. · 用 AI 把模糊想法变成结构化的软件规格。 `LangGraph` `RAG`
 
