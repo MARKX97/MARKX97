@@ -14,11 +14,11 @@
 
 ---
 
-## 🧭 About · 关于我
+## 👋 Hi there · 你好
 
-5+ years building web applications — now going deeper into full-stack and AI agents: tool orchestration, RAG, and spec-driven development.
+I'm a software engineer on Earth with 5+ years building web applications. Currently, I'm focusing on full-stack development and AI agents — tool orchestration, RAG, and spec-driven development. Off the keyboard, I teach Chinese online 🌏 and enjoy making small projects 🎈.
 
-5 年+ Web 应用开发经验，现向全栈与 AI Agent 深入：工具编排、RAG 与规格驱动开发。
+我是一名软件工程师，有 5 年+ Web 应用开发经验。目前专注于全栈开发与 AI Agent——工具编排、RAG 与规格驱动开发。键盘之外，我在线教中文 🌏，也喜欢做些小项目 🎈。
 
 ---
 
@@ -76,11 +76,6 @@ Production frontend engineering in enterprise apps: custom Vite lazy-loading plu
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MARKX97/MARKX97/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/MARKX97/MARKX97/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</picture>
 
 *Building, learning, and improving — one project at a time.* · *持续构建，持续学习，持续改进。*
 
