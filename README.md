@@ -6,15 +6,15 @@ I'm Mark — a developer who's built web apps, WeChat Mini Programs, and H5 page
 
 ## 🔨 What I'm Building
 
-- [**mom-spaghetti**](https://mom-spaghetti.vercel.app/en/) — A bilingual site for my mom's secondhand bookstore. `Next.js` `SEO`
+📚 **[mom-spaghetti](https://mom-spaghetti.vercel.app/en/)** — A bilingual site for my mom's secondhand bookstore. `Next.js` `SEO`
 
-- [**AI Software Planning Agent**](https://github.com/MARKX97/ai-software-planning-agent) — Turns rough ideas into structured software specs with AI. `LangGraph` `RAG`
+🤖 **[AI Software Planning Agent](https://github.com/MARKX97/ai-software-planning-agent)** — Turns rough ideas into structured software specs with AI. `LangGraph` `RAG`
 
-- **Agent Skills** — My personal Codex skills, version-controlled. `Python`
+🧩 **Agent Skills** — My personal Codex skills, version-controlled. `Python`
 
-- **Moto Diary** — A WeChat Mini Program for logging motorcycle rides. `Vue 3` `Node.js`
+🏍️ **Moto Diary** — A WeChat Mini Program for logging motorcycle rides. `Vue 3` `Node.js`
 
-- [**create-mark-next-project**](https://github.com/MARKX97/create-mark-next-project) — A CLI that scaffolds a Next.js app in one command. `Node.js`
+🚀 **[create-mark-next-project](https://github.com/MARKX97/create-mark-next-project)** — A CLI that scaffolds a Next.js app in one command. `Node.js`
 
 ---
 
